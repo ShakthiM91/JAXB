@@ -3,7 +3,7 @@
 <Person 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 
-    xsi:noNamespaceSchemaLocation="C:\JAXB Demo\demo.xsd">
+    xsi:noNamespaceSchemaLocation="/home/shakthi/Desktop/jaxb/demo.xsd">
     <Name>Sharon Krisher</Name>
     <Address>
         <Street>Iben Gevirol</Street>
