@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Person 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+    xsi:noNamespaceSchemaLocation="C:\JAXB Demo\demo.xsd">
+    <Name>Sharon Krisher</Name>
+    <Address>
+        <Street>Iben Gevirol</Street>
+        <Number>57</Number>
+    </Address>
+    <Address>
+        <Street>Moshe Sharet</Street>
+        <Number>89</Number>
+    </Address>
+</Person>
