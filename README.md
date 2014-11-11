@@ -1,6 +1,7 @@
 JAXB
 =============================
 Create Java definition classes from xml schema file using 'xjc' tool in Java jdk. 
+'xjc -p demo demo.xsd'
 
 This simple program will use those definition classes to read from xml file and write to an xml file.
 
